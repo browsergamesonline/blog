@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Browser Games to Play Online in 2026"
-date: 2026-08-21
+date: 2026-10-07
 description: "Discover fun online games across racing, action, puzzle, sports, multiplayer, adventure, and platform categories."
 permalink: /best-browser-games-to-play-online/
 ---
