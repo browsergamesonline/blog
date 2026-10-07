@@ -92,6 +92,6 @@ More people are choosing browser games because they are easy to start and fit we
 
 There are many types of games to choose from. You can find racing, action, puzzle, sports, adventure, and multiplayer games. This makes it easy to find a game that suits your mood. For many people, [recreational gaming](https://www.scribd.com/document/926271511/Recreational-Games) is also a simple way to relax in their free time. You can enjoy a quick game without buying a gaming system or spending time on a long setup.
 
-**Conclusion**
+## Conclusion
 
 Browser games are a simple way to have fun in your free time. You can race, solve puzzles, fight enemies, explore new levels, or play with friends. There are many types of games, so you can always find something you enjoy. You can play for a few minutes or stay longer when you have more time. Just pick a game you like, open it in your browser, and start playing.
