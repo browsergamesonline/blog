@@ -189,6 +189,7 @@ a:hover {
 .article-card p {
   color: #4B5563;
   margin-bottom: 18px;
+  text-align: justify;
 }
 
 .article-date {
