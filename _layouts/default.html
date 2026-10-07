@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="description"
+        content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <header class="site-header">
+
+    <div class="container header-inner">
+
+      <a href="{{ '/' | relative_url }}" class="logo">
+        Browser Games
+      </a>
+
+      <nav class="navigation">
+
+        <a href="{{ '/' | relative_url }}">
+          Home
+        </a>
+
+        <a href="{{ '/#articles' | relative_url }}">
+          Articles
+        </a>
+
+      </nav>
+
+    </div>
+
+  </header>
+
+
+  <main>
+
+    {{ content }}
+
+  </main>
+
+
+  <footer class="site-footer">
+
+    <div class="container">
+
+      <h3>
+        Browser Games
+      </h3>
+
+      <p>
+        Discover fun online games across racing, action, puzzle,
+        sports, multiplayer, adventure, and platform categories.
+      </p>
+
+      <p class="footer-copy">
+        © {{ 'now' | date: "%Y" }} Browser Games. All rights reserved.
+      </p>
+
+    </div>
+
+  </footer>
+
+</body>
+</html>
