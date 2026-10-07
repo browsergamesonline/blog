@@ -1,0 +1,2 @@
+# blog
+Browser Games Blog
