@@ -8,7 +8,7 @@ permalink: /best-browser-games-to-play-online/
 
 ![Browser Games]({{ '/assets/images/browser-games-1.png' | relative_url }})
 
-Playing online is a simple way to have fun, relax, or pass a little free time. You do not need a big download or a powerful computer for every game. [Browser games](https://playvio.io/) let you start playing from a normal web browser with just a few clicks. You can find racing, action, puzzle, sports, and multiplayer games in many styles. Many online games are also good for short breaks. Some are easy to learn, while others become harder as you play. With so many choices, you can quickly find a game that suits your mood and the amount of time you have.
+Playing online is a simple way to have fun, relax, or pass a little free time. You do not need a big download or a powerful computer for every game. [Online Browser games](https://playvio.io/) let you start playing from a normal web browser with just a few clicks. You can find racing, action, puzzle, sports, and multiplayer games in many styles. Many online games are also good for short breaks. Some are easy to learn, while others become harder as you play. With so many choices, you can quickly find a game that suits your mood and the amount of time you have.
 
 ## Best Skill and Action Games
 
@@ -52,7 +52,7 @@ Candy Jump is a simple arcade game that tests your timing and focus. You need to
 
 ### Tomb of the Mask
 
-Tomb of the Mask is a fast maze-style game where you move through changing paths and avoid different obstacles. The game becomes faster as you progress, so quick decisions are important.Each level brings new paths and challenges. You need to think quickly while controlling your character through the maze. Its simple controls and fast gameplay make it a good option for players who enjoy arcade and puzzle challenges.
+Tomb of the Mask is a fast maze-style game where you move through changing paths and avoid different obstacles. The game becomes faster as you progress, so quick decisions are important. Each level brings new paths and challenges. You need to think quickly while controlling your character through the maze. Its simple controls and fast gameplay make it a good option for players who enjoy arcade and puzzle challenges.
 
 ## Best Multiplayer Games
 
