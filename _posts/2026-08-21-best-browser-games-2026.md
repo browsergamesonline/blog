@@ -6,7 +6,7 @@ description: "Discover fun online games across racing, action, puzzle, sports, m
 permalink: /best-browser-games-to-play-online/
 ---
 
-![Browser Games]({{ '/assets/images/browser-games-1.png' | relative_url }})
+![Browser Games](/blog/assets/images/browser-games-1.png)
 
 Playing online is a simple way to have fun, relax, or pass a little free time. You do not need a big download or a powerful computer for every game. [Online Browser games](https://playvio.io/) let you start playing from a normal web browser with just a few clicks. You can find racing, action, puzzle, sports, and multiplayer games in many styles. Many online games are also good for short breaks. Some are easy to learn, while others become harder as you play. With so many choices, you can quickly find a game that suits your mood and the amount of time you have.
 
@@ -24,7 +24,7 @@ Tunnel Rush 2 takes you through a fast-moving tunnel filled with colorful obstac
 
 ### Gun Spin
 
-![Browser Games]({{ '/assets/images/browser-games-2.png' | relative_url }})
+![Browser Games](/blog/assets/images/browser-games-2.png)
 
 Gun Spin offers a different type of arcade challenge. Instead of simply shooting targets, you use the force of each shot to keep the gun moving through the air. Timing is a key part of the game. Each shot can change your movement, so you need to learn how the mechanics work. The basic idea is easy to understand, but later challenges require better control and timing.
 
@@ -46,7 +46,7 @@ Puzzle and casual games are a good choice when you want something simple but sti
 
 ### Candy Jump
 
-![Browser Games]({{ '/assets/images/browser-games-3.png' | relative_url }})
+![Browser Games](/blog/assets/images/browser-games-3.png)
 
 Candy Jump is a simple arcade game that tests your timing and focus. You need to guide your character through obstacles and make careful moves to keep progressing. The controls are easy to understand, but the challenge increases as you continue. The colorful design and short gameplay make it easy to start another attempt after a mistake. If you enjoy quick games that need good reactions, Candy Jump can be a fun choice.
 
