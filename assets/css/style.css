@@ -278,6 +278,7 @@ a:hover {
 
 .article-content p {
   margin: 0 0 20px;
+  text-align: justify;
 }
 
 .article-content ul {
